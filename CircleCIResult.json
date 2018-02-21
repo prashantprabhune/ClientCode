@@ -1,0 +1,364 @@
+{
+  "tests" : [ {
+    "classname" : "catalog.tests.test_forms.RenewBookFormTest",
+    "file" : null,
+    "name" : "test_renew_form_date_field_help_text",
+    "result" : "success",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_forms.RenewBookFormTest",
+    "file" : null,
+    "name" : "test_renew_form_date_field_label",
+    "result" : "failed",
+    "run_time" : 0.0,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_forms.RenewBookFormTest",
+    "file" : null,
+    "name" : "test_renew_form_date_in_past",
+    "result" : "success",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_forms.RenewBookFormTest",
+    "file" : null,
+    "name" : "test_renew_form_date_max",
+    "result" : "success",
+    "run_time" : 0.0,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_forms.RenewBookFormTest",
+    "file" : null,
+    "name" : "test_renew_form_date_today",
+    "result" : "failed",
+    "run_time" : 0.0,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_forms.RenewBookFormTest",
+    "file" : null,
+    "name" : "test_renew_form_date_too_far_in_future",
+    "result" : "success",
+    "run_time" : 0.0,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_date_of_birth_label",
+    "result" : "success",
+    "run_time" : 0.002,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_date_of_death_label",
+    "result" : "failed",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_first_name_label",
+    "result" : "success",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_first_name_max_length",
+    "result" : "success",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_get_absolute_url",
+    "result" : "success",
+    "run_time" : 0.01,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_last_name_label",
+    "result" : "success",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_last_name_max_length",
+    "result" : "success",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_models.AuthorModelTest",
+    "file" : null,
+    "name" : "test_object_name_is_last_name_comma_first_name",
+    "result" : "success",
+    "run_time" : 0.001,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorCreateViewTest",
+    "file" : null,
+    "name" : "test_form_date_of_death_initially_set_to_expected_date",
+    "result" : "success",
+    "run_time" : 0.509,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorCreateViewTest",
+    "file" : null,
+    "name" : "test_logged_in_with_permission",
+    "result" : "success",
+    "run_time" : 0.433,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorCreateViewTest",
+    "file" : null,
+    "name" : "test_redirect_if_logged_in_but_not_correct_permission",
+    "result" : "success",
+    "run_time" : 0.446,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorCreateViewTest",
+    "file" : null,
+    "name" : "test_redirect_if_not_logged_in",
+    "result" : "success",
+    "run_time" : 0.305,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorCreateViewTest",
+    "file" : null,
+    "name" : "test_redirects_to_detail_view_on_success",
+    "result" : "success",
+    "run_time" : 0.438,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorCreateViewTest",
+    "file" : null,
+    "name" : "test_uses_correct_template",
+    "result" : "success",
+    "run_time" : 0.451,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorListViewTest",
+    "file" : null,
+    "name" : "test_lists_all_authors",
+    "result" : "success",
+    "run_time" : 0.007,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorListViewTest",
+    "file" : null,
+    "name" : "test_pagination_is_ten",
+    "result" : "success",
+    "run_time" : 0.005,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorListViewTest",
+    "file" : null,
+    "name" : "test_view_url_accessible_by_name",
+    "result" : "success",
+    "run_time" : 0.005,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorListViewTest",
+    "file" : null,
+    "name" : "test_view_url_exists_at_desired_location",
+    "result" : "success",
+    "run_time" : 0.005,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.AuthorListViewTest",
+    "file" : null,
+    "name" : "test_view_uses_correct_template",
+    "result" : "success",
+    "run_time" : 0.005,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.LoanedBookInstancesByUserListViewTest",
+    "file" : null,
+    "name" : "test_logged_in_uses_correct_template",
+    "result" : "success",
+    "run_time" : 0.478,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.LoanedBookInstancesByUserListViewTest",
+    "file" : null,
+    "name" : "test_only_borrowed_books_in_list",
+    "result" : "success",
+    "run_time" : 0.497,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.LoanedBookInstancesByUserListViewTest",
+    "file" : null,
+    "name" : "test_pages_ordered_by_due_date",
+    "result" : "success",
+    "run_time" : 0.508,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.LoanedBookInstancesByUserListViewTest",
+    "file" : null,
+    "name" : "test_pages_paginated_to_ten",
+    "result" : "success",
+    "run_time" : 0.473,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.LoanedBookInstancesByUserListViewTest",
+    "file" : null,
+    "name" : "test_redirect_if_not_logged_in",
+    "result" : "success",
+    "run_time" : 0.313,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_HTTP404_for_invalid_book_if_logged_in",
+    "result" : "success",
+    "run_time" : 0.474,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_form_invalid_renewal_date_future",
+    "result" : "success",
+    "run_time" : 0.464,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_form_invalid_renewal_date_past",
+    "result" : "success",
+    "run_time" : 0.456,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_form_renewal_date_initially_has_date_three_weeks_in_future",
+    "result" : "success",
+    "run_time" : 0.468,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_logged_in_with_permission_another_users_borrowed_book",
+    "result" : "success",
+    "run_time" : 0.422,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_logged_in_with_permission_borrowed_book",
+    "result" : "success",
+    "run_time" : 0.415,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_redirect_if_logged_in_but_not_correct_permission",
+    "result" : "success",
+    "run_time" : 0.42,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_redirect_if_not_logged_in",
+    "result" : "success",
+    "run_time" : 0.277,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_redirects_to_all_borrowed_book_list_on_success",
+    "result" : "success",
+    "run_time" : 0.444,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  }, {
+    "classname" : "catalog.tests.test_views.RenewBookInstancesViewTest",
+    "file" : null,
+    "name" : "test_uses_correct_template",
+    "result" : "success",
+    "run_time" : 0.455,
+    "message" : null,
+    "source" : "unknown",
+    "source_type" : "unknown"
+  } ],
+  "exceptions" : [ ]
+}
