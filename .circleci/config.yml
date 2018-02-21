@@ -8,4 +8,4 @@ jobs:
       - checkout
       - restore_cache:
           key: circleci-feature9-{{ checksum "pom.xml" }}
-      - run: mvn Main
+      - run: mvn src/Main
